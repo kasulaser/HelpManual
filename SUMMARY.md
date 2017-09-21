@@ -42,6 +42,7 @@
   * [5.2自动寻边](5da-fu-mian-ruan-jian-fan-li/52zi-dong-xun-bian.md)
     * [5.2.1颜色检测法教程](5da-fu-mian-ruan-jian-fan-li/52zi-dong-xun-bian/521yan-se-jian-ce-fa-jiao-cheng.md)
     * [5.2.2数码印花（黑线检测法\)](5da-fu-mian-ruan-jian-fan-li/52zi-dong-xun-bian/522shu-ma-yin-hua-ff08-hei-xian-jian-ce-6cd529.md)
+    * [5.2.3数码印花\(轮廓检测法\)](5da-fu-mian-ruan-jian-fan-li/52zi-dong-xun-bian/523shu-ma-yin-82b128-lun-kuo-jian-ce-6cd529.md)
   * [5.3模板匹配](5da-fu-mian-ruan-jian-fan-li/5.md)
   * 5.4激光加工
 
