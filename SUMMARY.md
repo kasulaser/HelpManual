@@ -29,7 +29,8 @@
 * [3.电烫机文档](3dian-tang-ji-wen-dang.md)
   * [3.1电烫机安装保养](3dian-tang-ji-wen-dang/11dian-tang-ji-an-zhuang-bao-yang.md)
     * [3.1.1电烫机网带保养注意事项](3dian-tang-ji-wen-dang/11dian-tang-ji-an-zhuang-bao-yang/311dian-tang-ji-wang-dai-bao-yang-zhu-yi-shi-xiang.md)
-    * [2.1.2如何调节电烫机送料架光电对射开关](3dian-tang-ji-wen-dang/11dian-tang-ji-an-zhuang-bao-yang/212ru-he-diao-jie-dian-tang-ji-song-liao-jia-guang-dian-dui-she-kai-guan.md)
+    * [3.1.2如何调节电烫机送料架光电对射开关](3dian-tang-ji-wen-dang/11dian-tang-ji-an-zhuang-bao-yang/212ru-he-diao-jie-dian-tang-ji-song-liao-jia-guang-dian-dui-she-kai-guan.md)
+    * [3.1.3电烫机网带安装教程/更换网带](3dian-tang-ji-wen-dang/11dian-tang-ji-an-zhuang-bao-yang/313dian-tang-ji-wang-dai-an-zhuang-jiao-7a0b-geng-huan-wang-dai.md)
   * [3.2主板端口对照表](3dian-tang-ji-wen-dang/12zhu-ban-duan-kou-dui-zhao-biao.md)
 * 4.激光机文档
 * 5.大幅面软件范例
