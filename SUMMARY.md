@@ -48,4 +48,5 @@
   * [5.3模板匹配](5da-fu-mian-ruan-jian-fan-li/5.md)
     * [5.3.1绣花片模板匹配（灰度模板）](5da-fu-mian-ruan-jian-fan-li/5/531xiu-hua-pian-mo-ban-pi-pei-ff08-hui-du-mo-ban-ff09.md)
   * 5.4激光加工
+    * [5.4.1连续普切加工教程](5da-fu-mian-ruan-jian-fan-li/541lian-xu-pu-qie-jia-gong-jiao-cheng.md)
 
