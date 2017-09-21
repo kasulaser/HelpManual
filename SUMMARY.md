@@ -40,6 +40,7 @@
     * [4.1.4咔咻激光镜片（反射镜、聚焦镜）安装步骤](4ji-guang-ji-wen-dang/41ji-guang-ji-bao-yang-wei-hu/414ka-xiu-ji-guang-jing-pian-ff08-fan-she-jing-3001-ju-jiao-jing-ff09-an-zhuang-bu-zou.md)
 * [5.大幅面软件范例](5da-fu-mian-ruan-jian-fan-li.md)
   * [5.1标定](5da-fu-mian-ruan-jian-fan-li/51biao-ding.md)
+    * [5.1.1大幅面标定教程](5da-fu-mian-ruan-jian-fan-li/51biao-ding/511da-fu-mian-biao-ding-jiao-cheng.md)
   * [5.2自动寻边](5da-fu-mian-ruan-jian-fan-li/52zi-dong-xun-bian.md)
     * [5.2.1颜色检测法教程](5da-fu-mian-ruan-jian-fan-li/52zi-dong-xun-bian/521yan-se-jian-ce-fa-jiao-cheng.md)
     * [5.2.2数码印花（黑线检测法\)](5da-fu-mian-ruan-jian-fan-li/52zi-dong-xun-bian/522shu-ma-yin-hua-ff08-hei-xian-jian-ce-6cd529.md)
