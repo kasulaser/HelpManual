@@ -37,5 +37,11 @@
     * [4.1.1保养激光机的导轨光轴](4ji-guang-ji-wen-dang/41ji-guang-ji-bao-yang-wei-hu/411bao-yang-ji-guang-ji-de-dao-gui-guang-zhou.md)
     * [4.1.2软件控光和旋钮控光区别](4ji-guang-ji-wen-dang/41ji-guang-ji-bao-yang-wei-hu/412ruan-jian-kong-guang-he-xuan-niu-kong-guang-qu-bie.md)
     * [4.1.3如何清洗激光管内壁](4ji-guang-ji-wen-dang/41ji-guang-ji-bao-yang-wei-hu/413ru-he-qing-xi-ji-guang-guan-nei-bi.md)
-* 5.大幅面软件范例
+* [5.大幅面软件范例](5da-fu-mian-ruan-jian-fan-li.md)
+  * [5.1标定](5da-fu-mian-ruan-jian-fan-li/51biao-ding.md)
+  * [5.2自动寻边](5da-fu-mian-ruan-jian-fan-li/52zi-dong-xun-bian.md)
+    * [5.2.1颜色检测法教程](5da-fu-mian-ruan-jian-fan-li/52zi-dong-xun-bian/521yan-se-jian-ce-fa-jiao-cheng.md)
+    * [5.2.2数码印花（黑线检测法\)](5da-fu-mian-ruan-jian-fan-li/52zi-dong-xun-bian/522shu-ma-yin-hua-ff08-hei-xian-jian-ce-6cd529.md)
+  * [5.3模板匹配](5da-fu-mian-ruan-jian-fan-li/5.md)
+  * 5.4激光加工
 
