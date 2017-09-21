@@ -25,7 +25,10 @@
   * [2.3算料软件24点的标定方法](2suan-liao-ruan-jian-2012-2017-wen-dang/23suan-liao-ruan-jian-24-dian-de-biao-ding-fang-fa.md)
   * [2.4算料软件H版标定方法](2suan-liao-ruan-jian-2012-2017-wen-dang/24suan-liao-ruan-jian-h-ban-biao-ding-fang-fa.md)
   * [2.5二代定标仪网格标定方法](2suan-liao-ruan-jian-2012-2017-wen-dang/25er-dai-ding-biao-yi-wang-ge-biao-ding-fang-fa.md)
-* 3.电烫机文档
+  * 2.6数据库满的解决方法
+* [3.电烫机文档](3dian-tang-ji-wen-dang.md)
+  * 1.1电烫机安装保养
+  * [1.2主板端口对照表](3dian-tang-ji-wen-dang/12zhu-ban-duan-kou-dui-zhao-biao.md)
 * 4.激光机文档
 * 5.大幅面软件范例
 
