@@ -1,3 +1,8 @@
-# My Awesome Book
+# 本教程主要内部使用 {#本教程主要内部使用}
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本教程包含了咔咻常用产品的故障处理。
+
+包括硬件故障和软件故障。
+
+仅供客服人员和售后人员使用。
+
