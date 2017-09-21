@@ -21,6 +21,7 @@
     * [1.14.3切割发生了偏移或者偏差很大](chapter1/114da-fu-mian-biao-ding-wen-ti/1143qie-ge-fa-sheng-le-pian-yi-huo-zhe-pian-cha-hen-da.md)
 * [2.算料软件2012-2017文档](2suan-liao-ruan-jian-2012-2017-wen-dang.md)
   * [2.1启动找不到相机](2suan-liao-ruan-jian-2012-2017-wen-dang/21qi-dong-zhao-bu-dao-xiang-ji.md)
+  * [2.2重装系统后算料软件打不开](2suan-liao-ruan-jian-2012-2017-wen-dang/22zhong-zhuang-xi-tong-hou-suan-liao-ruan-jian-da-bu-kai.md)
 * 3.电烫机文档
 * 4.激光机文档
 * 5.大幅面软件范例
