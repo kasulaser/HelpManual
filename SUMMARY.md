@@ -14,6 +14,9 @@
   * [1.10 曲线不光滑，切割时发抖](chapter1/110-qu-xian-bu-guang-hua-ff0c-qie-ge-shi-fa-dou.md)
   * [1.11打开软件时，缺少根元素](chapter1/111da-kai-ruan-jian-shi-ff0c-que-shao-gen-yuan-su.md)
   * [1.12特征已失效解决方法](chapter1/112te-zheng-yi-shi-xiao-jie-jue-fang-fa.md)
+  * 1.13未找到特征解决方法
+  * [1.14大幅面标定问题](chapter1/114da-fu-mian-biao-ding-wen-ti.md)
+    * [1.14.1标定寻网格线段数目过少](chapter1/114da-fu-mian-biao-ding-wen-ti/1141biao-ding-xun-wang-ge-xian-duan-shu-mu-guo-shao.md)
 * 2.算料软件2012-2017文档
 * 3.电烫机文档
 * 4.激光机文档
