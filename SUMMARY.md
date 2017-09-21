@@ -9,6 +9,7 @@
   * [1.5大幅面软件打不开](chapter1/15da-fu-mian-ruan-jian-da-bu-kai.md)
   * [1.6大幅面切割有空程](chapter1/16da-fu-mian-qie-ge-you-kong-cheng.md)
   * [1.7打开软件显示没有超级狗](chapter1/17da-kai-ruan-jian-xian-shi-mei-you-chao-ji-gou.md)
+  * [1.8大幅面匹配和检测时闪退](chapter1/18da-fu-mian-pi-pei-he-jian-ce-shi-shan-tui.md)
 * 2.算料软件2012-2017文档
 * 3.电烫机文档
 * 4.激光机文档
