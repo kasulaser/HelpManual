@@ -19,7 +19,8 @@
     * [1.14.1标定寻网格线段数目过少](chapter1/114da-fu-mian-biao-ding-wen-ti/1141biao-ding-xun-wang-ge-xian-duan-shu-mu-guo-shao.md)
     * [1.14.2标定时出现:索引超出了数组界限](chapter1/114da-fu-mian-biao-ding-wen-ti/1142biao-ding-shi-chu-73b03a-suo-yin-chao-chu-le-shu-zu-jie-xian.md)
     * [1.14.3切割发生了偏移或者偏差很大](chapter1/114da-fu-mian-biao-ding-wen-ti/1143qie-ge-fa-sheng-le-pian-yi-huo-zhe-pian-cha-hen-da.md)
-* 2.算料软件2012-2017文档
+* [2.算料软件2012-2017文档](2suan-liao-ruan-jian-2012-2017-wen-dang.md)
+  * [2.1启动找不到相机](2suan-liao-ruan-jian-2012-2017-wen-dang/21qi-dong-zhao-bu-dao-xiang-ji.md)
 * 3.电烫机文档
 * 4.激光机文档
 * 5.大幅面软件范例
