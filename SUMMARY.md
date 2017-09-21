@@ -36,5 +36,6 @@
   * [4.1激光机保养维护](4ji-guang-ji-wen-dang/41ji-guang-ji-bao-yang-wei-hu.md)
     * [4.1.1保养激光机的导轨光轴](4ji-guang-ji-wen-dang/41ji-guang-ji-bao-yang-wei-hu/411bao-yang-ji-guang-ji-de-dao-gui-guang-zhou.md)
     * [4.1.2软件控光和旋钮控光区别](4ji-guang-ji-wen-dang/41ji-guang-ji-bao-yang-wei-hu/412ruan-jian-kong-guang-he-xuan-niu-kong-guang-qu-bie.md)
+    * [4.1.3如何清洗激光管内壁](4ji-guang-ji-wen-dang/41ji-guang-ji-bao-yang-wei-hu/413ru-he-qing-xi-ji-guang-guan-nei-bi.md)
 * 5.大幅面软件范例
 
