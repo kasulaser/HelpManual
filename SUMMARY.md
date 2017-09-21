@@ -37,6 +37,7 @@
     * [4.1.1保养激光机的导轨光轴](4ji-guang-ji-wen-dang/41ji-guang-ji-bao-yang-wei-hu/411bao-yang-ji-guang-ji-de-dao-gui-guang-zhou.md)
     * [4.1.2软件控光和旋钮控光区别](4ji-guang-ji-wen-dang/41ji-guang-ji-bao-yang-wei-hu/412ruan-jian-kong-guang-he-xuan-niu-kong-guang-qu-bie.md)
     * [4.1.3如何清洗激光管内壁](4ji-guang-ji-wen-dang/41ji-guang-ji-bao-yang-wei-hu/413ru-he-qing-xi-ji-guang-guan-nei-bi.md)
+    * [4.1.4咔咻激光镜片（反射镜、聚焦镜）安装步骤](4ji-guang-ji-wen-dang/41ji-guang-ji-bao-yang-wei-hu/414ka-xiu-ji-guang-jing-pian-ff08-fan-she-jing-3001-ju-jiao-jing-ff09-an-zhuang-bu-zou.md)
 * [5.大幅面软件范例](5da-fu-mian-ruan-jian-fan-li.md)
   * [5.1标定](5da-fu-mian-ruan-jian-fan-li/51biao-ding.md)
   * [5.2自动寻边](5da-fu-mian-ruan-jian-fan-li/52zi-dong-xun-bian.md)
