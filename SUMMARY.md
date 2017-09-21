@@ -12,6 +12,7 @@
   * [1.8大幅面匹配和检测时闪退](chapter1/18da-fu-mian-pi-pei-he-jian-ce-shi-shan-tui.md)
   * [1.9 100D的相机拍照模糊](chapter1/19-100dde-xiang-ji-pai-zhao-mo-hu.md)
   * [1.10 曲线不光滑，切割时发抖](chapter1/110-qu-xian-bu-guang-hua-ff0c-qie-ge-shi-fa-dou.md)
+  * [1.11打开软件时，缺少根元素](chapter1/111da-kai-ruan-jian-shi-ff0c-que-shao-gen-yuan-su.md)
 * 2.算料软件2012-2017文档
 * 3.电烫机文档
 * 4.激光机文档
