@@ -2,7 +2,7 @@
 
 现象：
 
-![](file:///C:/Users/Administrator/Documents/Tencent%20Files/185064400/Image/C2C/5EU7J~P]%7BCA8A_%7DVNJ%60MSH1.jpg)![](https://kasulaser.gitbooks.io/kasuclientservice/content/assets/QQ%E5%9B%BE%E7%89%8720170919203346.png)
+![](https://kasulaser.gitbooks.io/kasuclientservice/content/assets/QQ图片20170919203346.png)
 
 # 出现的问题原因与解决方法： {#出现的问题原因与解决方法：}
 
