@@ -41,6 +41,7 @@
   * [4.2判断激光机48V电源损坏](4ji-guang-ji-wen-dang/42pan-duan-ji-guang-ji-48v-dian-yuan-sun-huai.md)
   * [4.3激光头切不透如何解决](4ji-guang-ji-wen-dang/43ji-guang-tou-qie-bu-tou-ru-he-jie-jue.md)
   * [4.4激光管高压线打火如何解决](4ji-guang-ji-wen-dang/44ji-guang-guan-gao-ya-xian-da-huo-ru-he-jie-jue.md)
+  * [4.5激光头不出光如何排查](4ji-guang-ji-wen-dang/45ji-guang-tou-bu-chu-guang-ru-he-pai-cha.md)
 * [5.大幅面软件范例](5da-fu-mian-ruan-jian-fan-li.md)
   * [5.1标定](5da-fu-mian-ruan-jian-fan-li/51biao-ding.md)
     * [5.1.1大幅面标定教程](5da-fu-mian-ruan-jian-fan-li/51biao-ding/511da-fu-mian-biao-ding-jiao-cheng.md)
