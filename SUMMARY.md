@@ -14,7 +14,7 @@
   * [1.10 曲线不光滑，切割时发抖](chapter1/110-qu-xian-bu-guang-hua-ff0c-qie-ge-shi-fa-dou.md)
   * [1.11打开软件时，缺少根元素](chapter1/111da-kai-ruan-jian-shi-ff0c-que-shao-gen-yuan-su.md)
   * [1.12特征已失效解决方法](chapter1/112te-zheng-yi-shi-xiao-jie-jue-fang-fa.md)
-  * 1.13未找到特征解决方法
+  * [1.13未找到特征解决方法](chapter1/113wei-zhao-dao-te-zheng-jie-jue-fang-fa.md)
   * [1.14大幅面标定问题](chapter1/114da-fu-mian-biao-ding-wen-ti.md)
     * [1.14.1标定寻网格线段数目过少](chapter1/114da-fu-mian-biao-ding-wen-ti/1141biao-ding-xun-wang-ge-xian-duan-shu-mu-guo-shao.md)
     * [1.14.2标定时出现:索引超出了数组界限](chapter1/114da-fu-mian-biao-ding-wen-ti/1142biao-ding-shi-chu-73b03a-suo-yin-chao-chu-le-shu-zu-jie-xian.md)
@@ -38,6 +38,7 @@
     * [4.1.2软件控光和旋钮控光区别](4ji-guang-ji-wen-dang/41ji-guang-ji-bao-yang-wei-hu/412ruan-jian-kong-guang-he-xuan-niu-kong-guang-qu-bie.md)
     * [4.1.3如何清洗激光管内壁](4ji-guang-ji-wen-dang/41ji-guang-ji-bao-yang-wei-hu/413ru-he-qing-xi-ji-guang-guan-nei-bi.md)
     * [4.1.4咔咻激光镜片（反射镜、聚焦镜）安装步骤](4ji-guang-ji-wen-dang/41ji-guang-ji-bao-yang-wei-hu/414ka-xiu-ji-guang-jing-pian-ff08-fan-she-jing-3001-ju-jiao-jing-ff09-an-zhuang-bu-zou.md)
+  * [4.2判断激光机48V电源损坏](4ji-guang-ji-wen-dang/42pan-duan-ji-guang-ji-48v-dian-yuan-sun-huai.md)
 * [5.大幅面软件范例](5da-fu-mian-ruan-jian-fan-li.md)
   * [5.1标定](5da-fu-mian-ruan-jian-fan-li/51biao-ding.md)
     * [5.1.1大幅面标定教程](5da-fu-mian-ruan-jian-fan-li/51biao-ding/511da-fu-mian-biao-ding-jiao-cheng.md)
