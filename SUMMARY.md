@@ -39,6 +39,7 @@
     * [4.1.3如何清洗激光管内壁](4ji-guang-ji-wen-dang/41ji-guang-ji-bao-yang-wei-hu/413ru-he-qing-xi-ji-guang-guan-nei-bi.md)
     * [4.1.4咔咻激光镜片（反射镜、聚焦镜）安装步骤](4ji-guang-ji-wen-dang/41ji-guang-ji-bao-yang-wei-hu/414ka-xiu-ji-guang-jing-pian-ff08-fan-she-jing-3001-ju-jiao-jing-ff09-an-zhuang-bu-zou.md)
   * [4.2判断激光机48V电源损坏](4ji-guang-ji-wen-dang/42pan-duan-ji-guang-ji-48v-dian-yuan-sun-huai.md)
+  * [4.3激光头切不透如何解决](4ji-guang-ji-wen-dang/43ji-guang-tou-qie-bu-tou-ru-he-jie-jue.md)
 * [5.大幅面软件范例](5da-fu-mian-ruan-jian-fan-li.md)
   * [5.1标定](5da-fu-mian-ruan-jian-fan-li/51biao-ding.md)
     * [5.1.1大幅面标定教程](5da-fu-mian-ruan-jian-fan-li/51biao-ding/511da-fu-mian-biao-ding-jiao-cheng.md)
